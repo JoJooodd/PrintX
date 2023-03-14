@@ -23,4 +23,9 @@ if residuo == 0:
 else:
     print(f'El numero {mayor} impar porque su residuo es:', residuo)
 
+
 # Eddy Poroj
+contador = 0
+while contador < mayor:
+    contador += 1
+    print(contador)
