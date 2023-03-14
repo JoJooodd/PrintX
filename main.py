@@ -5,6 +5,7 @@ residuo = 0
 
 # Sebastian Siquina
 
+
 # Eddy Poroj
 contador = 0
 while contador < mayor:
